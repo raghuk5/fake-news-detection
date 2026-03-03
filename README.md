@@ -23,8 +23,4 @@ streamlit run app.py
 
 
 
-## 📸 App Preview
-
-![Fake News Detection App](screenshot.png)
-
 
